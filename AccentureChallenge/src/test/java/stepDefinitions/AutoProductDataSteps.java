@@ -15,7 +15,7 @@ public class AutoProductDataSteps extends Base_PO {
 
 	@And("I select a Start Date")
 	public void i_select_a_start_date() {
-		writexPath("//*[@id=\"startdate\"]", "08/11/2022");
+		writexPath("//*[@id=\"startdate\"]", "09/11/2022");
 	}
 
 	@And("I select a Insurance Sum [$]")
